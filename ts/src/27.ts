@@ -1,9 +1,20 @@
+// https://leetcode.com/problems/remove-element
+
 function removeElement(nums: number[], val: number): number {
-    let k = 0
+    let left = 0;
+    let right = 0;
 
-    nums.forEach(() => {
-        console.log('let go')
-    })
+    while (right < nums.length) {
+        while (nums[right] === val) {
+            right += 1
+        }
 
-    return k
-};
+        nums[left] = nums[right]
+        left += 1
+        right += 1
+    }
+
+    return left
+}
+
+// removeElement([3,2,2,3], 3)

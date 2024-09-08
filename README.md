@@ -8,6 +8,5 @@ I have tried to solve CodeForces but it's not as fun a solving LeetCode ones!
 cd ts
 npm i # if not yet
 # create a solution file with problem no in `ts/src` dir. Like, `src/27.ts`
-./node_modules/typescript/bin/tsc # compiles everything
-./dist/27.js
+./node_modules/typescript/bin/tsc && node ./dist/xx.js
 ```
