@@ -1,6 +1,6 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kaburbundokel11g?ext=activity)](https://leetcode.com/kaburbundokel11g)
 
-# My attempts to solve LeetCode problems
+# My LeetCode solutions
 
 I have tried to solve CodeForces but it's not as fun a solving LeetCode ones!
 
