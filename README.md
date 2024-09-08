@@ -1,4 +1,4 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kaburbundokel11g)](https://leetcode.com/kaburbundokel11g)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kaburbundokel11g?ext=activity)](https://leetcode.com/kaburbundokel11g)
 
 # My attempts to solve LeetCode problems
 
