@@ -1,4 +1,6 @@
-# My approach to solve LeetCode problems
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kaburbundokel11g)](https://leetcode.com/kaburbundokel11g)
+
+# My attempts to solve LeetCode problems
 
 I have tried to solve CodeForces but it's not as fun a solving LeetCode ones!
 
