@@ -12,7 +12,7 @@
  * }
  */
 
-function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
   // @ts-expect-error
+function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
   return (!p && p === q) || ((p?.val === q?.val) && isSameTree(p.left, q.left) && isSameTree(p.right, q.right))
 };
